@@ -13,3 +13,9 @@ p {
   font-size: 20px;
   background-color: #3498DB;
 }
+
+iframe {
+  border: 1px solid black;
+  margin: auto;
+  text-align: center;
+}
