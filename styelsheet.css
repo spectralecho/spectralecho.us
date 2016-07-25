@@ -11,11 +11,11 @@ p {
   text-align:center;
   font-family: Verdana;
   font-size: 20px;
-  background-color: #3498DB;
+  background-color: #F4D03F;
 }
 
 #frag1 {
   border: 1px solid black;
   margin: auto;
-  text-align: center;
+  background-color:#F39C12;
 }
