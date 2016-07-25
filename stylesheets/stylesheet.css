@@ -1,8 +1,10 @@
-div {
+#footer_wrap {
   display: block
   height: 100px;
   width: 1000px;
   margin: auto;
+  border: 1px solid black;
+  background-color: #3498DB;
 }
 
 p {
