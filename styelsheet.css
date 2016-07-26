@@ -14,9 +14,9 @@
   font-size: 20px;
   background-color: #3498DB;
   border: 2px solid black;
-  border-radius: 5px;
   padding: 5px;
-  margin-bottom: 10px;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
 }
 
 #frag1 {
@@ -31,7 +31,7 @@
 }
 
 #footer1 {
-  font-family: cursive, Verdana;
+  font-family: Verdana;
   padding: 20px;
 }
 
@@ -39,8 +39,8 @@
 	position: relative;
 	top: 10px;
 	background-color: #3c4543;
-	border-top-left-radius: 15px;
-	border-top-right-radius: 15px;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
 }
 
 #navbar {
@@ -64,4 +64,8 @@ li {
 	color: #ffffff;
 	border-radius: 5px 5px;
 	background-color: #cc0323
+}
+
+.nbar {
+  text-decoration: none;
 }
