@@ -37,7 +37,7 @@
 }
 
 #top {
-	position: relative;
+	position: static;
 	top: 10px;
 	background-color: #3c4543;
 	border-bottom-left-radius: 15px;
