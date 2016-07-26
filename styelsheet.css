@@ -45,8 +45,7 @@
 }
 
 #navbar {
-	margin-top: 10px;
-	position:relative;
+	position: static;
 	left:50%;
 	margin-left:-254px;
 }
