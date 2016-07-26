@@ -38,6 +38,7 @@
 
 #top {
 	position: static;
+  /* margin-left: */
 	top: 10px;
 	background-color: #3c4543;
 	border-bottom-left-radius: 15px;
@@ -47,7 +48,7 @@
 #navbar {
 	position: static;
 	left:50%;
-	margin-left:-254px;
+	margin-left:10px;
 }
 
 ul{
