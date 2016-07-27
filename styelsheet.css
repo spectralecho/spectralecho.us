@@ -1,6 +1,7 @@
 #footer_wrap {
   background-color: #3498DB;
   margin-top: 10px;
+  clear: right;
 }
 
 #opening {
@@ -15,6 +16,7 @@
   background-color: #3498DB;
   padding: 21px;
   margin-top: 10px;
+  margin-right: 270px;
   float: both;
 }
 
@@ -27,6 +29,7 @@
 	position: static;
 	background-color: #3c4543;
 	border-radius: 5px;
+  margin-right: 270px;
 }
 
 #navbar {
@@ -57,3 +60,12 @@ li {
 #yt {
   float: left;
 }
+
+.right {
+  float: right;
+  background-color: #3c4543;
+  padding: 5px;
+  height: 1000px;
+  width: 250px;
+  margin-top: -93px;
+  }
