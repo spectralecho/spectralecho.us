@@ -69,3 +69,25 @@ li {
   width: 350px;
   margin-top: -93px;
 }
+
+.box{
+    display: none;
+    width: 100%;
+}
+
+a:hover + .box,.box:hover{
+    display: block;
+    position: relative;
+    z-index: 100;
+}
+
+#csmap {
+    position: static;
+    margin-right: 370px;
+    background-color: #3498DB;
+    height: 250px;
+}
+
+p {
+    padding: 10px;
+}
