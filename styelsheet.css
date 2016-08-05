@@ -14,7 +14,7 @@
 #frag1 {
   margin: left;
   background-color: #3498DB;
-  padding: 21px;
+  padding: 5px;
   margin-top: 10px;
   margin-right: 370px;
   float: both;
@@ -37,13 +37,13 @@
 	margin-left:10px;
 }
 
-ul{
+.nbul{
 	list-style-type: none;
 	position: relative;
 	margin: 10px;
 }
 
-li {
+.nbli {
 	display: inline;
 	padding: 5px;
 	border: 2px solid #000000;
@@ -67,17 +67,20 @@ li {
   padding: 5px;
   height: 1000px;
   width: 350px;
-  margin-top: -93px;
+  margin-top: -176px;
 }
 
 #csmap {
-    position: static;
     margin-right: 370px;
     background-color: #3498DB;
     height: 250px;
+    margin-top: 10px;
 }
 
 .csmaptext {
-    padding: 10px;
-    font-family: Futura, Arial, Verdana;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.button {
+    padding: 5px;
 }
